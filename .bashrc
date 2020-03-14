@@ -1,5 +1,5 @@
 
-## Aliases
+# Aliases
 alias ll="ls -lhA"
 alias ls="ls -CF"
 alias sl="ls"
@@ -11,4 +11,3 @@ alias du="du -ach | sort -h"
 alias ps="ps auxf"
 alias mkdir="mkdir -pv"
 alias wget="wget -c"
-
